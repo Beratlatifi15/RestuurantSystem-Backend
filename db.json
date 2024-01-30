@@ -1,0 +1,76 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Restaurant 1",
+      "address": "Address 1",
+      "menus": [
+        {
+          "id": 2,
+          "name": "Sale",
+          "menuItems": [
+            {
+              "id": 17,
+              "name": "menu Item1",
+              "price": 5.5
+            },
+            {
+              "id": 18,
+              "name": "menu item 2",
+              "price": 8.5
+            },
+            {
+              "id": 19,
+              "name": "menuItem3",
+              "price": 5.5
+            },
+            {
+              "id": 20,
+              "name": "mmmm",
+              "price": 7.5
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Sale department",
+          "menuItems": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Route66",
+      "address": "Prishtine",
+      "menus": [
+        {
+          "id": 5,
+          "name": "Leonora",
+          "menuItems": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Leonora",
+      "address": "111",
+      "menus": [
+        {
+          "id": 7,
+          "name": "menu",
+          "menuItems": []
+        },
+        {
+          "id": 8,
+          "name": "menu2",
+          "menuItems": []
+        }
+      ]
+    }
+  ],
+  "lastUsedId": {
+    "restaurantId": 9,
+    "menuId": 10,
+    "menuItemId": 21
+  }
+}
